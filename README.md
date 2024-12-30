@@ -64,7 +64,7 @@ Description: Développement d'un site interactif sur les jeux vidéo avec intég
 Technologies: HTML, CSS, JavaScript
 
 Contact
-Pour toute question ou information, vous pouvez me contacter à l'adresse suivante : mael.gruand@example.com
+Pour toute question ou information, vous pouvez me contacter à l'adresse suivante : maelgruandcompany@gmail.com
 
 
 Ce fichier `README.md` offre un aperçu complet de ton site web, de ses fonctionnalités et de la manière de l'utiliser. Si tu as besoin de plus d'informations ou d'ajustements, n'hésite pas à demander ! 📄🚀
